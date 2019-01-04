@@ -5,8 +5,8 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
 avatar: 'assets/images/sal.jpg'
-disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+disqus: ''
+email: 'hi2098@qq.com'
 
 include: ["_pages"]
 permalink: /:title/
