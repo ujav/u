@@ -1,6 +1,6 @@
 ---
 
-title:  "AIfake face Angelababy"
+title:  "AI fake face Angelababy"
 
 metadate: "hide"
 
