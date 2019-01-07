@@ -1,13 +1,12 @@
 # Site
-name: 'Uncensord JAV'
-description: 'UJAV is'
+name: 'UJAV.XYZ'
+description: 'UJAV.XYZ is an adult site providing Uncensored Free JAV'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
-avatar: 'assets/images/sal.jpg'
 disqus: ''
 email: 'hi2098@qq.com'
-
+ 
 include: ["_pages"]
 permalink: /:title/
 
