@@ -6,7 +6,7 @@ metadate: "hide"
 
 categories: [兄妹姐弟]
 
-image: "/assets/images/zhangruixi2.jpg"
+image: "/assets/images/zhangruixi1.jpg"
 
 ---
 图张瑞茜；自从上次被三妹雅婷利用以后，生活意外地一如往常，彷彿从未发生过这档事一样。
