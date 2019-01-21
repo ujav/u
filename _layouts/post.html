@@ -39,7 +39,13 @@ layout: default
                         # {{ category | downcase }}
                       </a>
                     {% endfor %}
-                    
+                    <p></p>
+                    {% if page.next.url %}
+                    <a class="prev" href="{{site.baseurl}}{{page.next.url}}">上一篇</a>
+                  {% endif %}
+                  {% if page.previous.url %}
+                    <a class="next" href="{{site.baseurl}}{{page.previous.url}}">下一篇</a>
+                  {% endif %}
     				{% include comments.html %}
                     
     			</div>  
