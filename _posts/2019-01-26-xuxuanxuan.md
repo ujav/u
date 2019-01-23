@@ -6,7 +6,7 @@ metadate: "hide"
 
 categories: [都市激情]
 
-image: "/assets/images/.jpg"
+image: "/assets/images/xuxuanxuan.jpg"
 
 ---
 
