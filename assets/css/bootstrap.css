@@ -4,6 +4,10 @@
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+
+@font-face { font-family: "Open Sans Regular"; font-weight: 400; font-style: normal; src: url("fonts/OpenSans-Regular-BasicLatin.woff2") format("woff2"); font-display: swap; }
+
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
